@@ -51,4 +51,4 @@ Team Renovar is thrilled to have the opportunity to revamp the Daraz platform th
 
 ## GitHub Repository
 
-Find our project on [GitHub](link-to-your-github-repo).
+Find our project on [GitHub](https://github.com/daraz-revamp/Revampathon---Team-Renovar.git).
